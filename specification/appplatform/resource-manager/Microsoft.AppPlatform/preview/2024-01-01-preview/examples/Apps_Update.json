@@ -5,7 +5,7 @@
         "public": true,
         "httpsOnly": false,
         "enableEndToEndTLS": false,
-        "testEndpointAuthState": "Enabled",
+        "testEndpointAuthStatus": "Enabled",
         "temporaryDisk": {
           "sizeInGB": 2,
           "mountPath": "/mytemporarydisk"
@@ -59,7 +59,7 @@
           "fqdn": "myapp.mydomain.com",
           "httpsOnly": false,
           "enableEndToEndTLS": false,
-          "testEndpointAuthState": "Enabled",
+          "testEndpointAuthStatus": "Enabled",
           "temporaryDisk": {
             "sizeInGB": 2,
             "mountPath": "/mytemporarydisk"
@@ -123,7 +123,7 @@
           "fqdn": "myapp.mydomain.com",
           "httpsOnly": false,
           "enableEndToEndTLS": false,
-          "testEndpointAuthState": "Enabled",
+          "testEndpointAuthStatus": "Enabled",
           "temporaryDisk": {
             "sizeInGB": 2,
             "mountPath": "/mytemporarydisk"
